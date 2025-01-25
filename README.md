@@ -1,9 +1,9 @@
-# 📚 Book Registration App   
+# List Tracker Apps
 
 ## Overview
 
 <p align="center">
-<img width="50%" length="50%" align="center" src="https://github.com/user-attachments/assets/418f116a-d047-4e65-938e-c3a26f9153e4">
+<img width="40%" length="40%" align="center" src="https://github.com/user-attachments/assets/418f116a-d047-4e65-938e-c3a26f9153e4">
 </p>
 
 A simple **Book Registration Application** built with Python's **Tkinter**. It helps you track, add, update, and delete books in your collection, with features like searching, sorting, and saving data. 
